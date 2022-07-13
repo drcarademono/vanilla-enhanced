@@ -1,0 +1,40 @@
+{
+    "ModTitle": "Vanilla Enhanced - Masked Roads",
+    "ModVersion": "1.0",
+    "ModAuthor": "Kokey & carademono",
+    "ContactInfo": "forums.dfworkshop.net",
+    "DFUnity_Version": "0.13.4",
+    "ModDescription": "Remastered Masked Roads textures for DF Unity",
+    "GUID": "37276007-3b76-41bf-b70b-b045921ff5cf",
+    "Files": [
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/102_46-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/402_46-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/102_55-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/002_55-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/302_47-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/002_47-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/303_46-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/303_47-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/303_55-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/403_47-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/103_47-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/403_55-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/302_46-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/402_47-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/302_55-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/403_46-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/102_47-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/402_55-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/002_46-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/103_46-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/maskedroads/103_55-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Vanilla Enhanced - Masked Roads.dfmod.json"
+    ],
+    "Dependencies": [
+        {
+            "Name": "vanilla enhanced - base",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}

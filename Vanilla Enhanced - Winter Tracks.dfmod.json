@@ -1,0 +1,20 @@
+{
+    "ModTitle": "Vanilla Enhanced - Winter Tracks",
+    "ModVersion": "1.0",
+    "ModAuthor": "Hazelnut & carademono",
+    "ContactInfo": "forums.dfworkshop.net",
+    "DFUnity_Version": "0.13.4",
+    "ModDescription": "Remastered Winter Tracks textures for DF Unity",
+    "GUID": "4606ae21-97e8-46bb-92d0-1d73e8300ee3",
+    "Files": [
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/wintertracks/303_11-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/Options/wintertracks/303_51-0.png"
+    ],
+    "Dependencies": [
+        {
+            "Name": "vanilla enhanced - base",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}
