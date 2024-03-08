@@ -1,9 +1,9 @@
 {
     "ModTitle": "Vanilla Enhanced - Base",
-    "ModVersion": "3.2.1",
+    "ModVersion": "3.2.3",
     "ModAuthor": "carademono",
-    "ContactInfo": "forums.dfworkshop.net",
-    "DFUnity_Version": "0.13.4",
+    "ContactInfo": "Lysandus' Tomb Discord server",
+    "DFUnity_Version": "1.0.0",
     "ModDescription": "Remastered vanilla textures for DF Unity",
     "GUID": "1f124f8c-dd01-48ad-a5b9-0b4a0e4702d2",
     "Files": [
