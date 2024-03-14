@@ -1,6 +1,6 @@
 {
     "ModTitle": "Vanilla Enhanced - Base",
-    "ModVersion": "3.3.0",
+    "ModVersion": "3.3.1",
     "ModAuthor": "carademono",
     "ContactInfo": "Lysandus' Tomb Discord server",
     "DFUnity_Version": "1.0.0",
@@ -1128,11 +1128,45 @@
         "Assets/Game/Mods/vanilla-enhanced/Textures/Terrain Flats/511_18-0.png",
         "Assets/Game/Mods/vanilla-enhanced/Textures/Terrain Flats/509_8-0.png",
         "Assets/Game/Mods/vanilla-enhanced/Textures/Terrain Flats/511_11-0.png",
-        "Assets/Game/Mods/vanilla-enhanced/Vanilla Enhanced - Base.dfmod.json"
+        "Assets/Game/Mods/vanilla-enhanced/Vanilla Enhanced - Base.dfmod.json",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/417_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/417_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/117_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/317_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/417_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/017_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/117_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/117_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/317_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/317_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/017_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/017_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/118_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/118_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/418_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/318_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/418_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/018_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/018_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/418_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/018_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/318_0-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/318_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/City Walls/118_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/WOD/372_4-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/WOD/372_1-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/WOD/2003_4-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/WOD/372_2-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/WOD/2005_2-0.mat"
     ],
     "Dependencies": [
         {
             "Name": "world of daggerfall - biomes",
+            "IsOptional": true,
+            "IsPeer": false
+        },
+        {
+            "Name": "world of daggerfall",
             "IsOptional": true,
             "IsPeer": false
         }
