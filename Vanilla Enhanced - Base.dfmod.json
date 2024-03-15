@@ -1157,7 +1157,23 @@
         "Assets/Game/Mods/vanilla-enhanced/Textures/WOD/372_1-0.png",
         "Assets/Game/Mods/vanilla-enhanced/Materials/WOD/2003_4-0.mat",
         "Assets/Game/Mods/vanilla-enhanced/Textures/WOD/372_2-0.png",
-        "Assets/Game/Mods/vanilla-enhanced/Materials/WOD/2005_2-0.mat"
+        "Assets/Game/Mods/vanilla-enhanced/Materials/WOD/2005_2-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_1-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_6-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_7-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/HFMountain_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/DeepDesert_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/MountainWinter_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/WoodlandWinter_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_2-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/Mountain_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/Desert_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_4-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_5-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/HauntedWoodland_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_0-0.mat",
+        "Assets/Game/Mods/vanilla-enhanced/Textures/RMBRP/Rocks/Woodland_3-0.png",
+        "Assets/Game/Mods/vanilla-enhanced/Materials/RMBRP/Rocks/2006_3-0.mat"
     ],
     "Dependencies": [
         {
