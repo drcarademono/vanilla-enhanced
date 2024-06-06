@@ -1185,6 +1185,11 @@
             "Name": "world of daggerfall",
             "IsOptional": true,
             "IsPeer": false
+        },
+        {
+            "Name": "rmb resource pack",
+            "IsOptional": true,
+            "IsPeer": false
         }
     ]
 }
